@@ -1,0 +1,10 @@
+site_name: Meshflow Affordable Mesh Solutions for Any Terrain.
+theme:
+  name: mkdocs
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+
+highlightjs: true
